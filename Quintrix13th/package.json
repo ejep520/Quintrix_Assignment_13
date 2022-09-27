@@ -1,0 +1,12 @@
+{
+  "name": "quintrix13th",
+  "version": "0.0.0",
+  "description": "Quintrix13th",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
