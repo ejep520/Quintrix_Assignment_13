@@ -8,7 +8,7 @@ if (!fs.existsSync("./Hamlet3_1.txt")) {
     exit(1);
 }
 
-fs.readFile("./Hamlet3_1.txt", "ascii", (e, data) => {
+fs.readFile("./Hamlet3_1.txt", "utf-8", (e, data) => {
     if (e) {
         console.log(e.message);
         return;

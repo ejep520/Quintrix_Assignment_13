@@ -4,7 +4,8 @@
   "description": "Quintrix13th",
   "main": "app.js",
   "author": {
-    "name": ""
+    "email": " 5465915+ejep520@users.noreply.github.com",
+    "name": "Erik Jepsen"
   },
   "dependencies": {
     "axios": "^0.27.2"
